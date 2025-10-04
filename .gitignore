@@ -1,0 +1,7 @@
+.vercel
+.next
+
+node_modules
+prisma/migrations
+prisma/.env
+.env*

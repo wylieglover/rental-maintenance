@@ -1,0 +1,8 @@
+/* Tailwind v4 */
+@import "tailwindcss";
+
+/* Your tweaks */
+:root { --brand: #2563eb; }
+html { scroll-behavior: smooth; }
+::-webkit-scrollbar { width: 8px; }
+::-webkit-scrollbar-thumb { background: #d1d5db; border-radius: 4px; }
