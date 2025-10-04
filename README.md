@@ -1,5 +1,7 @@
 # Rental Maintenance MVP
 
+<img width="638" height="853" alt="rental-maintenance" src="https://github.com/user-attachments/assets/379b47b5-25e0-439f-a06b-af425877b261" />
+
 A full‑stack **Next.js 13 / React / Prisma / PostgreSQL** application that helps property managers track and resolve tenant maintenance requests.  Built as an opinionated but easily‑extendable starter.
 
 ---
