@@ -16,7 +16,7 @@ A full‑stack **Next.js 13 / React / Prisma / PostgreSQL** application that he
 | **Realtime UI** | React‑Query caching, optimistic updates, Toast feedback |
 | **Image Handling** | Upload to Vercel Blob, light‑box gallery, optional Google Gemini Vision triage |
 | **DX** | Type‑safe hooks, ESLint, Prettier, React‑Query DevTools, hot‑reload |
-| **CI / CD** | Vercel ready ‑ zero‑config deploy, GitHub Actions sample workflow in `.github/` |
+| **CI / CD** | Vercel ready ‑ zero‑config deploy, GitHub Actions sample workflow in `.github/` soon! |
 
 ---
 
